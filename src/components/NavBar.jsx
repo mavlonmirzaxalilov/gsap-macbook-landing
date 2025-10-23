@@ -20,7 +20,7 @@ const NavBar = () => {
                         <img src={'/search.svg'} alt={'Search'}/>
                     </button>
                     <button>
-                        <img src={'/cart    .svg'} alt={'Search'}/>
+                        <img src={'/cart.svg'} alt={'Search'}/>
                     </button>
                 </div>
             </nav>
